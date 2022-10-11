@@ -1,4 +1,4 @@
-# google_maps_app
+# google_maps_app_with_otp
 
 A new Flutter project.
 
