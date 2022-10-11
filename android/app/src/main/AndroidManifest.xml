@@ -1,8 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.google_maps_app">
+    package="com.sahilDevelops.google_maps_app_otp">
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
    <application
-        android:label="google_maps_app"
+        android:label="google_maps_app_otp"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
@@ -34,6 +34,6 @@
         
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyAJpqqonrqRABKeCIN6RDj102AbGzSDCmo"/>
+            android:value="AIzaSyAAevY6GLbISTgd-fG4ENyv7NOhqb-a_fQ"/>
     </application>
 </manifest>

@@ -1,5 +1,5 @@
-name: google_maps_app
-description: Flutter project for Settyl Intern.
+name: google_maps_app_otp
+description: Flutter project integrating Google Maps API with OTP login.
 
 publish_to: "none"
 

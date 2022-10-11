@@ -1,4 +1,4 @@
-package com.example.google_maps_app
+package com.sahilDevelops.google_maps_app_otp
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -1,41 +1,41 @@
 {
   "project_info": {
-    "project_number": "1098753088027",
-    "project_id": "maps-app-3169f",
-    "storage_bucket": "maps-app-3169f.appspot.com"
+    "project_number": "489157460031",
+    "project_id": "maps-app-otp",
+    "storage_bucket": "maps-app-otp.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1098753088027:android:e92f81c4d7c7b368a236be",
+        "mobilesdk_app_id": "1:489157460031:android:14ff1adefcda5e6b77f88a",
         "android_client_info": {
-          "package_name": "com.sahilDevelops.google_maps_app"
+          "package_name": "com.sahilDevelops.google_maps_app_otp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1098753088027-era98ibcvanhi24jrap40qpo82tem8sd.apps.googleusercontent.com",
+          "client_id": "489157460031-r2f748kk072c74go49ovsto1ii07339p.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.sahilDevelops.google_maps_app",
+            "package_name": "com.sahilDevelops.google_maps_app_otp",
             "certificate_hash": "c0bd66c2c7f1dc03be4dab649cddb0420b3e7ecc"
           }
         },
         {
-          "client_id": "1098753088027-ngo9sfksj7mcv4qrf1sdtd31g1ealh7n.apps.googleusercontent.com",
+          "client_id": "489157460031-7ja790l0cpg3mk1e50381o27n50n8e9l.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDUGvkOZvQyT3xl7egJdJ-U7TLWp9XU9gU"
+          "current_key": "AIzaSyAd38AG3iGsBQ1AZD8V581J0vvQ9SIwmzY"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1098753088027-ngo9sfksj7mcv4qrf1sdtd31g1ealh7n.apps.googleusercontent.com",
+              "client_id": "489157460031-7ja790l0cpg3mk1e50381o27n50n8e9l.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
